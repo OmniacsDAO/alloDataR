@@ -1,0 +1,17 @@
+Package: alloDataR
+Type: Package
+Title: Get Data for Allo Protocol
+Version: 0.0.0.9000
+Authors@R: 
+    person("Omniacs", "DAO", , "omniacsdao@gmail.com", role = c("aut", "cre"))
+Description: Routines to interact with the Allo Grants Protocol and its indexer data <https://grants-stack-indexer.gitcoin.co>.
+  The package contains codebase to get the Allo Grants data directly from R console, Ability 
+  parse data related to the platform and analyse some aspects.
+Depends: R (>= 3.1)
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports:
+  jsonlite,
+  rvest,
