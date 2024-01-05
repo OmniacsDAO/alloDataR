@@ -1,6 +1,10 @@
 # alloDataR
 
-An R Package to Interact with Allo Protocol Indexer data and make the data more easily accessible for use for analysis in R and easy exports as CSVs.<br>
+Introducing an R Package for Effortless Interaction with Allo Protocol Indexer Data
+
+Our R Package simplifies the process of accessing and utilizing Allo Protocol Indexer data for analysis in R while enabling seamless export to CSV files. This package takes the complex, nested JSON output from the indexer, collects, parses, and flattens it, resulting in easily accessible single tables. This streamlined data export capability broadens the community's ability to perform analysis, as the data can even be effortlessly loaded into Excel for further examination.
+
+<br>
 
 ## [Walkthrough on YouTube](https://www.youtube.com/watch?v=hS9c5g) <<< Click Here
 
