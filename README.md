@@ -33,7 +33,7 @@ The indexed data have following structure.
 This R package pulls all the above data and makes it available for use in R and easy CSV downloads.
 <br>
 
-The package has 3 Functionalities
+The package has 2 Functionalities
 - [Pull Data : To pull all types of data for Allo Protocol](https://github.com/OmniacsDAO/alloDataR#pull-data-functionality)
 - [Export Data : To export the Allo Protocol data](https://github.com/OmniacsDAO/alloDataR#data-export-functionality)
 
